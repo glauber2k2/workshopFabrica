@@ -79,9 +79,9 @@ WSGI_APPLICATION = 'oficina.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'OficinaTestes',
+        'NAME': '<nome_escolhido>',
         'USER': 'postgres',
-        'PASSWORD': '32144145',
+        'PASSWORD': '<senha_escolhida_no_postgresql>',
         'HOST': 'localhost'
     }
 }
