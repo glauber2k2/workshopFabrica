@@ -39,7 +39,6 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'carros',
-    'pessoa',
     'django.contrib.postgres'
 ]
 
@@ -80,7 +79,7 @@ WSGI_APPLICATION = 'oficina.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'Oficina',
+        'NAME': 'OficinaTestes',
         'USER': 'postgres',
         'PASSWORD': '32144145',
         'HOST': 'localhost'
@@ -110,9 +109,9 @@ AUTH_PASSWORD_VALIDATORS = [
 # Internationalization
 # https://docs.djangoproject.com/en/4.1/topics/i18n/
 
-LANGUAGE_CODE = 'en-us'
+LANGUAGE_CODE = 'pt-BR'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'America/Sao_Paulo'
 
 USE_I18N = True
 

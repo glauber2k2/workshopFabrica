@@ -5,3 +5,8 @@ class CarrosSerializers(serializers.ModelSerializer):
     class Meta:
       model = models.Carros
       fields = '__all__'
+
+class PessoaSerializers(serializers.ModelSerializer):
+   class Meta:
+      model = models.Pessoa
+      fields = '__all__'
