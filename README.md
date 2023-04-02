@@ -19,7 +19,7 @@
 - Caso queira acessar um dado especifico, você terá que utilizar a chave primaria: </br>
 cliente = CPF </br>
 serviço = protocolo/id
-- Com a chave, você irá colocar apos o link na sua URL de busca.
+- Com a chave, você irá colocar após o link na sua URL de busca.
 - Fazendo isso será redirecionado para o painel de controle do dado.
 
 <img src="https://github.com/glauber2k2/workshopFabrica/blob/desafio/tela4.png">
