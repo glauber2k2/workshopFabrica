@@ -11,8 +11,8 @@
 <img src="https://github.com/glauber2k2/workshopFabrica/blob/desafio/tela2.png">
 
 - Na hora de cadastrar o carro/serviço, você tem a opção de ligar o serviço com algum cliente pre-cadastrado no sistema.
-- Será gerado um protocolo unico (id_carro) a cada serviço cadastrado no sistema, pois assim você conseguirar acessar o dado pelo protocolo gerado.
-- Um cliente poderá ter seu cpf ligado com varios carros na oficina, porem cada carro só é ligado com um unico cliente.
+- Será gerado um protocolo unico (id_carro) a cada serviço cadastrado no sistema, pois assim você conseguirá acessar o dado pelo protocolo gerado.
+- Um cliente poderá ter seu CPF ligado com varios carros na oficina, porem cada carro só é ligado com um unico cliente.
 
 <img src="https://github.com/glauber2k2/workshopFabrica/blob/desafio/tela3.png">
 
